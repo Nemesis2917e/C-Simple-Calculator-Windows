@@ -1,1 +1,1 @@
-<h1> Hello , C++ Calculator </h1>
+<h1> Simple C++ / Kotlin Calculator </h1>
